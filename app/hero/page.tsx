@@ -140,7 +140,7 @@ export default function HeroSection() {
                   ✨ Premium Service
                 </div>
                 <div className="absolute -bottom-4 -left-4 bg-white/20 backdrop-blur-sm text-white px-4 py-2 rounded-full font-semibold text-sm border border-white/20">
-                  🏆 Dubai&aposs Best
+                  🏆 Dubais Best
                 </div>
               </div>
             </div>
